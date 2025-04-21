@@ -421,3 +421,4 @@ else:
         st.warning("Diretório de Vendas não encontrado!")
     if not os.path.isdir(DIR_COMPRAS_FIXO):
         st.warning("Diretório de Compras não encontrado!")
+        
